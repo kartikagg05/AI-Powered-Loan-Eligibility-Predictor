@@ -1,4 +1,4 @@
-#**🏦 AI-Powered Loan Eligibility Predictor**#
+>   **🏦 AI-Powered Loan Eligibility Predictor**
 ##**Welcome to the AI-Powered Loan Eligibility Predictor!**## 
 
 🚀 This project aims to help financial institutions streamline their loan approval process by using machine learning to predict loan eligibility. Say goodbye to manual reviews, and welcome fast, fair, and data-driven decisions!
@@ -6,7 +6,8 @@
 ##**🌟 Why This Project?**##
 Financial institutions often struggle with time-consuming, manual loan reviews. With a growing number of applicants, it's becoming harder to ensure quick, consistent, and unbiased decisions. Our AI-powered solution helps automate this process by using applicant financial data to predict loan eligibility in real-time, based on historical trends.
 
-![image 1]("C:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot 2024-09-30 185042.png")
+![Glimpse of project](https://github.com/user-attachments/assets/09d344c5-e871-415b-bc33-a4b02724a3f8)
+
 
 
 ##**📊 Features & How It Works**##
@@ -25,7 +26,8 @@ Property Area: Whether the applicant's property is in an urban or semi-urban are
 The model performance is evaluated through standard metrics, including accuracy, precision, recall, f1-score, and a confusion matrix. For this demo, the model achieves 100% accuracy on the small test dataset, which is great for demonstration purposes. However, real-world applications will need more robust datasets to avoid overfitting and ensure generalization.
 
 Here’s a snapshot of the model evaluation results:
-![Model evaluation]("C:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot 2024-09-30 185144.png")
+![Model evaluation](https://github.com/user-attachments/assets/11a885fc-32ba-4bde-9933-80efa471aa0d)
+
 
 
 
